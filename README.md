@@ -1,6 +1,7 @@
 Nice to see you here!
 =============================
 
+
 Frontend developer
 ------------------
 
@@ -9,6 +10,7 @@ My name is Egor Kurilko. I am an aspiring front-end developer and am currently l
 * 🌍  I'm based in Moskow region, Kashira city
 * ✉️  You can contact me at [kypulko\_egor@bk.ru](mailto:kypulko_egor@bk.ru)
 * 🧠  I'm learning Hexlet IT School
+* ⚡  Writing good code is hard, but it's worth it!
 
 ### Skills
 
