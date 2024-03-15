@@ -8,6 +8,12 @@
 
 ### <div align="center">I am currently a student at the Hexlet School of Information Technology.</div>
 
+### <div align="center">Please see my resume &#128073; <a href="https://cv.hexlet.io/ru/resumes/3086/">&#128209;</a></div>
+
+
+
+
+
 ### My Skills
 
 <p align="left">
