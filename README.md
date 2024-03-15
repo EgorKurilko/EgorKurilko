@@ -1,8 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%26347&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=40&pause=2000&color=000000&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&random=%D0%9B%D0%9E%D0%96%D0%AC&width=600&height=70&lines=Hi%2C+nice+to+see+you+here!)](https://git.io/typing-svg)
 
-![Описание](https://github.com/EgorKurilko/EgorKurilko/blob/main/header.png?raw=true)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=40&pause=2000&color=000000&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%9B%D0%9E%D0%96%D0%AC&random=%D0%9B%D0%9E%D0%96%D0%AC&width=600&height=70&lines=Hi%2C+nice+to+see+you+here!)](https://git.io/typing-svg)
 
-  
+<a href="https://ru.hexlet.io/u/kypulko_egor">
+  <img class="icon" src="https://simpleicons.org/icons/hexlet.svg" width="32" height="32" alt="hexlet icon">
+</a>
+
+<img class="icon" src="https://simpleicons.org/icons/maildotru.svg" width="32" height="32" alt="mail icon">
+
+<p>
+  <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/399923?s=200&amp;v=4" width="32" height="32" alt="@mailru">
+</p>
+
+<a href="https://www.linkedin.com/in/egorkurilko" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"/> </picture> </a>
+
+<p dir="auto"><a href="https://t.me/FatykovKirill" rel="nofollow"><img src="https://user-images.githubusercontent.com/95209245/205297581-a8d5cac0-1a9c-431e-8ef3-9f554cee81c1.svg" alt="telegram" width="40" height="40" style="max-width: 100%;"></a>
+</p>
+
+![example workflow](https://avatars.githubusercontent.com/u/399923?s=200&v=4))
+
 
 # <div align="center">Hi, nice to see you here!</div>  
   
@@ -55,6 +71,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/egorkurilko/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+
+
 </div>  
   
 
