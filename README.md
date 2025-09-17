@@ -31,7 +31,3 @@
 <a href="https://ru.hexlet.io/u/kypulko_egor">
   <img class="icon" src="https://simpleicons.org/icons/hexlet.svg" width="32" height="32" alt="hexlet icon">
 </a>
-
-### <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/EgorKurilko"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EgorKurilko&stroke=0891b2&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
